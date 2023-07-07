@@ -1,0 +1,6 @@
+No perfil deve ter as seguintes informações:
+
+- Nome
+- Habilidades
+- Contato
+- Experiencias
